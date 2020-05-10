@@ -8,6 +8,7 @@ The following results are inferior relative to other approaches. A better perfor
 
 Following are tips to boost your performance:
 - approach the data as sequential data
+- transform the problem into a classification problem by predicting trends rather than prices.
 - tune the hyperparameters
 - build more sophisticated ensembles
 - use formant algorithm to analyse the price sequences
